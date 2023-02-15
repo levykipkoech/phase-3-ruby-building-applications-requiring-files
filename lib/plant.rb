@@ -1,3 +1,5 @@
+# require_relative 'ruby lib/garden.rb'
+
 class Plant
   attr_accessor :garden, :name
 
